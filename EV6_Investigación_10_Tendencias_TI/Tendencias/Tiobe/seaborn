@@ -1,0 +1,32 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Load the data into a pandas DataFrame
+data = {
+    'Sep 2024': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    'Programming Language': ['Python', 'C++', 'Java', 'C', 'C#', 'JavaScript', 'Visual Basic', 'Go', 'SQL', 'Fortran',
+                             'Delphi/Object Pascal', 'MATLAB', 'PHP', 'Rust', 'R', 'Ruby', 'Scratch', 'Kotlin', 'COBOL', 'Swift'],
+    'Ratings': [20.17, 10.75, 9.45, 8.89, 6.08, 3.82, 2.70, 2.35, 1.94, 1.78, 1.77, 1.47, 1.46, 1.32, 1.20, 1.13, 1.11, 1.10, 1.09, 1.08]
+}
+
+df = pd.DataFrame(data)
+
+# Set the aesthetic style of the plots
+sns.set(style="whitegrid")
+
+# Create a line plot
+plt.figure(figsize=(10, 6))
+lineplot = sns.lineplot(x="Programming Language", y="Ratings", data=df, marker='o')
+
+# Rotate the x labels for better readability
+plt.xticks(rotation=90)
+
+# Add a title and labels
+plt.title('Programming Language Ratings - Sep 2024', fontsize=16)
+plt.xlabel('Programming Language', fontsize=12)
+plt.ylabel('Ratings (%)', fontsize=12)
+
+# Display the plot
+plt.tight_layout()
+plt.show()
