@@ -24,6 +24,14 @@ La gestión de horarios en entornos educativos siempre ha representado un reto, 
 
 Este artículo propone la creación de un sistema de gestión de horarios basado en una arquitectura modular, que emplea tecnologías como Angular para la interfaz, Java para la lógica de negocio y MySQL para la gestión de datos. A través de este enfoque, el sistema será capaz de manejar las complejidades de la asignación de horarios, respetando las restricciones académicas y optimizando el uso de recursos. Para lograr este objetivo, se presentan una serie de validaciones críticas que deben implementarse para asegurar la correcta organización de los horarios.
 
+\section{Planteamiento del problema}
+La gestión de horarios académicos en el SENA es una tarea compleja que involucra la coordinación de múltiples factores, como disponibilidad de instructores, capacidad de ambientes y restricciones de horarios. Esta tarea consume mucho tiempo y es propensa a errores humanos, además de generar conflictos de horarios, lo que impacta negativamente en la planificación académica.
+Desafíos principales:
+Conflictos de horarios entre instructores y ambientes.
+Ajustes manuales continuos ante imprevistos.
+Baja optimización en la asignación de recursos.
+Falta de automatización en la generación de informes y seguimiento.
+
 \section{Metodología}
 La metodología empleada en este estudio se centra en la identificación de las principales validaciones necesarias para un sistema de gestión de horarios eficiente y seguro en el SENA. Para ello, se realizó un análisis exhaustivo de las entidades involucradas en la gestión de horarios, a saber, las fichas (grupos de estudiantes), los instructores, los ambientes (salones), los gestores de línea, y la interacción entre especialidades.
 

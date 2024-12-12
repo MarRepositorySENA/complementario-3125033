@@ -1,0 +1,50 @@
+
+
+Contexto: Módulos de un sistema institucional y su complejidad relativa.
+
+Hipótesis 1: Los módulos con mayor complejidad en el desarrollo (porcentaje más alto) también requieren proporcionalmente más horas de trabajo que los módulos con menor complejidad.
+Hipótesis 2: El enfoque en microservicios reduce la dispersión del esfuerzo entre los módulos, permitiendo que ningún módulo consuma más del 30% del tiempo total.
+Hipótesis 3: La distribución de la complejidad entre los módulos sigue una regla uniforme debido a la estandarización de procesos en el desarrollo ágil.
+
+
+
+Distribución de categorías en el mercado de tecnología verde.
+
+Hipótesis 1: Las categorías con mayor porcentaje de mercado están relacionadas directamente con tecnologías energéticas sostenibles.
+Hipótesis 2: El mercado de tecnología verde está altamente concentrado en unas pocas categorías principales que representan más del 60% del mercado total.
+Hipótesis 3: Las inversiones en tecnologías verdes aumentan de manera proporcional a la visibilidad de estas categorías en el mercado global.
+
+
+Percepción del impacto de los robots en el empleo por país.
+
+Hipótesis 1: Los países con mayor desarrollo tecnológico muestran una mayor percepción de que los robots impactarán significativamente en el empleo en los próximos 50 años.
+Hipótesis 2: Existe una correlación entre el nivel de industrialización del país y el porcentaje de respuestas que creen que los robots probablemente afectarán trabajos.
+Hipótesis 3: Las percepciones negativas sobre los robots en el empleo están influenciadas por la falta de programas de reconversión laboral en los países analizados.
+
+
+Uso de bibliotecas de JavaScript.
+
+Hipótesis 1: Las bibliotecas con mayor porcentaje de uso, como Lodash y date-fns, están orientadas a resolver problemas generales y son más accesibles para desarrolladores principiantes.
+Hipótesis 2: El uso de bibliotecas de JavaScript refleja una preferencia por herramientas que optimizan tareas repetitivas como el manejo de fechas y validaciones.
+Hipótesis 3: Existe una relación directa entre la cantidad de encuestados y el porcentaje de adopción de una biblioteca específica.
+
+
+Popularidad de tecnologías de programación y scripting.
+
+Hipótesis 1: Las tecnologías con mayores porcentajes de popularidad son las más esenciales para el desarrollo web y backend.
+Hipótesis 2: Lenguajes como Python y SQL mantienen una alta popularidad debido a su amplia aplicación en áreas emergentes como inteligencia artificial y análisis de datos.
+Hipótesis 3: Las tecnologías más nuevas como Rust y Go tienen menor adopción debido a barreras de aprendizaje y ecosistemas menos maduros.
+
+
+Popularidad de herramientas de inteligencia artificial.
+
+Hipótesis 1: Las herramientas más populares, como ChatGPT, dominan el mercado debido a su accesibilidad y facilidad de uso para tareas cotidianas.
+Hipótesis 2: Existe una correlación entre la popularidad de una herramienta de IA y su integración en flujos de trabajo existentes.
+Hipótesis 3: Las herramientas de IA menos populares tienen un uso limitado debido a la falta de características distintivas o publicidad insuficiente.
+
+
+Contexto: Plataformas de computación en la nube deseadas y admiradas.
+
+Hipótesis 1: Las plataformas más deseadas también tienen las tasas más altas de admiración, lo que indica una correlación entre calidad percibida y demanda.
+Hipótesis 2: Las plataformas con menor porcentaje de deseo suelen estar orientadas a nichos específicos o tienen barreras de entrada más altas.
+Hipótesis 3: Las diferencias en los porcentajes de deseo y admiración pueden reflejar estrategias de marketing y accesibilidad de cada plataforma.
